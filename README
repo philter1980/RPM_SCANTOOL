@@ -1,0 +1,15 @@
+OBD emulator for non-OBD vehicles.
+
+Devices eBOM:
+https://wiki.seeedstudio.com/CAN-BUS_Shield_V2.0/
+Thermocouple and sensor amplifier: https://learn.adafruit.com/thermocouple
+Current sensor (for RPM readout) https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf
+OBD connector (ISO 15765): https://learn.sparkfun.com/tutorials/getting-started-with-obd-ii/all
+ELM327 reader 
+
+Code and libraries:
+https://wiki.seeedstudio.com/CAN-BUS_Shield_V2.0/
+Source code inspiration https://www.instructables.com/Arduino-OBD2-Simulator/
+
+
+Applicable projects: Go-Kart, vintage and historical vehicles.
